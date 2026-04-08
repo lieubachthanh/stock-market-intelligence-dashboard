@@ -78,9 +78,6 @@ vn30-market-intelligence/
 │   ├── 04_volatility_regime.png # Box plot volatility theo giai đoạn
 │   └── 05_ytd_momentum.png      # YTD Top & Bottom 10
 │
-├── 📁 docs/
-│   └── Market_Report_VN30.docx  # Báo cáo phân tích 
-│
 ├── 📄 README.md                 # File này
 └── 📄 requirements.txt          # Python dependencies
 ```
