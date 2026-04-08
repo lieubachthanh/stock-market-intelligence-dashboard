@@ -443,8 +443,7 @@ Phase_Pct_Positive =
 
 ## 11. Tác giả
 
-**[Họ và Tên]**  
-Data Analyst Candidate
+**[Liêu Bách Thành]**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/lieubachthanh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/lieubachthanh)
